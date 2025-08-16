@@ -1,0 +1,4 @@
+PyQt5
+selenium
+webdriver-manager
+selenium-authenticated-proxy
